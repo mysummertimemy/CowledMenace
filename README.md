@@ -114,6 +114,10 @@ This Modification is unofficial Fan Content permitted under the Fan Content Poli
 
 ## Version History
 
+2.0.1 -- Small Fix
+
+- Fixed the optional component "Use pre-EE Spell Deflection Globe (EE only)". It's now working properly.
+
 2.0.0 -- Major Update
 
 - **Ported the mod to BG2EE** (specifically Shadows of Amn). I have tested it and it is still compatible with the Enhanced Edition Trilogy (during the SoA portion), but it doesn't require EET anymore. As such, the content that was in Amkethran previously is now found in late Shadows of Amn. Same for the content that was in BG1, which has been transferred to locations in SoA. Follow in-game clues/letters/journal entries to find them! And lastly, obviously, the ending of the quest no longer happens in the Pocket Plane, as that's exclusive to Throne of Bhaal. The entirety of the questline is self-contained in SoA now.
